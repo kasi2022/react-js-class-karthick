@@ -4,7 +4,6 @@ let b=20;
 const d=30;
 
 // data types 
-
 // primitives - stack , number[1,2, 0.8 ],string [az,number,ymboles], 
 // boolean [true,false], null[-],
 //  undefined[varrible is declared but value is not assigned ]
